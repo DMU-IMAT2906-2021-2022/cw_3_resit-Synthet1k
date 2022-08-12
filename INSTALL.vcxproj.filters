@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\Uni Work\year 2\IMAT2906\CW3\cw_3_resit-Synthet1k-main\build\CMakeFiles\b4ddeb7d58d688e2d4e67b3ae8fad4dc\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{4B484106-42C4-33C4-A0A6-27226E6C2A73}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
